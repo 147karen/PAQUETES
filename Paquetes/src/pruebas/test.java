@@ -8,6 +8,7 @@ public class test {
 		// TODO Auto-generated method stub
 
 	//	Persona p1=new Persona(24,"karen");
+		// sssssss
 		 paquete1.Persona p=new paquete1.Persona(24,"karen");
 		 paquete2.Persona p2=new paquete2.Persona(24,"karen","Femenino");
 		
